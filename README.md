@@ -8,3 +8,7 @@ of the ocean geometry.
 ---
 
 Below you can see results from the model:
+
+Normal Map \| Rendered \| Model Output | Without GAN \| With GAN \| With GAN
+------------ |------------
+![alt text](results/GAN_result.jpg) | ![alt text](results/tex_result.jpg)
