@@ -7,7 +7,10 @@ of the ocean geometry.
 
 ---
 
+[Project report](https://cdn.rawgit.com/arqcenick/OceaGAN/f9f80800/results/Cetin_YarkinDeniz_Polat_DorukYigit_CS565_Report.pdf)
+
 Below you can see results from the model:
+
 
 Normal Map \| Rendered \| Model Output | Without GAN \| With GAN \| With GAN
 ------------ |------------
